@@ -1,0 +1,8 @@
+.header {
+  background: gray;
+  padding: 20px;
+}
+
+.active {
+  background: gold;
+}
