@@ -1,4 +1,4 @@
-# Минимальны проект (frontend task)
+# Минимальный проект (frontend task)
 
 Версия node - **16** (LTS).
 
